@@ -1,5 +1,5 @@
 <h1>Hi There👋</h1>
-    <p>I'm <b>Rudy Paningal</b>a Pamulang University student, passioned in Web Development. I like Problem Solving 🤔, Traveling 🚄, Hiking ⛰️, and i like to explore new place with diffrent traditions and culture</p>
+    <p>I'm <b>Rudy Paningal</b> a Pamulang University student, passioned in Web Development. I like Problem Solving 🤔, Traveling 🚄, Hiking ⛰️, and i like to explore new place with diffrent traditions and culture</p>
 
 <h1>🤝Connect Me on : </h1>
     <a href="https://www.instagram.com/ruddypp/">
