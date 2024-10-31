@@ -24,3 +24,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Github Streaks</h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruddypp&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+
+![ruddypp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddypp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
