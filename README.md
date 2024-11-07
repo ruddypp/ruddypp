@@ -1,5 +1,8 @@
 <h1>Hi There👋</h1>
-    <p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. I like Problem Solving 🤔, Traveling 🚄, Hiking ⛰️, and i like to explore new place with diffrent traditions and culture</p>
+    <p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. 
+        I like Problem Solving 🤔
+        Traveling 🚄 
+        Hiking ⛰️, and i like to explore new place with diffrent traditions and culture</p>
 
 <h1>🤝Connect Me on : </h1>
     <a href="https://www.instagram.com/ruddypp/">
@@ -16,7 +19,6 @@
 
         
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, React, Express JS
 - 📫 How to reach me on instagram @ruddypp
 <!---
 ruddypp/ruddypp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +28,3 @@ You can click the Preview link to take a look at your changes.
 
 ![ruddypp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruddypp&theme=onedark&hide_border=true)
 
-![ruddypp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddypp&theme=onedark&show_icons=true&hide_border=true&layout=compact)
