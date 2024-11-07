@@ -1,8 +1,5 @@
 <h1>Hi There👋</h1>
-    <p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. 
-        I like Problem Solving 🤔
-        Traveling 🚄 
-        Hiking ⛰️, and i like to explore new place with diffrent traditions and culture</p>
+    <p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. <br> I like Problem Solving 🤔 <br> Traveling 🚄 <br> Hiking ⛰️ <br> and i like to explore new place with diffrent traditions and culture</p>
 
 
 ## 🌐 Socials:
@@ -21,5 +18,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1>Github Streaks</h1>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ruddypp&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruddypp&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
