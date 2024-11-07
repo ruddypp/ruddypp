@@ -20,5 +20,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1>Github Streaks</h1>
-![ruddypp's Streak] (https://github-readme-streak-stats.herokuapp.com/?user=ruddypp&theme=onedark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruddypp&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
