@@ -17,5 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🔥 Github Streak :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruddypp&theme=vue-dark&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruddypp&theme=vue-dark&hide_longest_streak=true)](https://git.io/streak-stats)
 
