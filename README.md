@@ -21,5 +21,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1>Github Streaks</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ruddypp&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ruddypp&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
