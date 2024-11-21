@@ -12,7 +12,7 @@
 ![ruddypp's Stats](https://github-readme-stats.vercel.app/api?username=ruddypp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-------
+---------
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
