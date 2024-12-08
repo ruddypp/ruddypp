@@ -2,7 +2,7 @@
 <p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. <br> I like Problem Solving 🤔 <br> Traveling 🚄 <br> Hiking ⛰️ <br> and i like to explore new place with diffrent traditions and culture</p>
 
 
-## 🌐 Socials:
+## 🌐 Socials ;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruddypp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudypaningal) 
 
 # 💻 Tech Stack:
