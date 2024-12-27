@@ -1,5 +1,5 @@
 <h1>Hi There👋</h1>
-<p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development. <br> I like Problem Solving 🤔 <br> Traveling 🚄 <br> Hiking ⛰️ <br> and i like to explore new place with diffrent traditions and culture</p>
+<p>I'm <b>Rudy Paningal</b> a Pamulang University student, interested in Web Development, AI, Machine Learning, Cloud Computing, Data Scient. <br> I like Problem Solving 🤔 <br> Traveling 🚄 <br> Hiking ⛰️ <br> and i like to explore new place with diffrent traditions and culture</p>
 
 
 ## 🌐 Socials ;
