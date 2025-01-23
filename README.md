@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddypp&label=Profile%20views&color=0e75b6&style=flat" alt="ruddypp" /> </p>
 <img src="https://www.codewars.com/users/ruddypp/badges/micro" alt="codewars"/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach Me out :</h3>
 <p align="left"><a href="https://www.linkedin.com/in/rudypaningal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudy paningal" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/705175872277184512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="peler" height="30" width="40" /></a>
 </p>
