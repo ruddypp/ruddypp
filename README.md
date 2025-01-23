@@ -1,7 +1,7 @@
 <h3 align="left">I'm Rudy Paningal. Originally from Tangerang, I’m a third-year student at Pamulang University. During my study I’m interested in web development and machine learning. I enjoy solving logical problems and improving algorithms—it feels incredibly satisfying! :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddypp&label=Profile%20views&color=0e75b6&style=flat" alt="ruddypp" /> </p>
-<img src="https://komarev.com/ghpvc/?username=ruddypp" alt="ruddypp" /> <img src="https://www.codewars.com/users/ruddypp/badges/micro" alt="codewars"/>
+<img src="https://www.codewars.com/users/ruddypp/badges/micro" alt="codewars"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/rudy paningal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudy paningal" height="30" width="40" /></a>
 <a href="https://discord.gg/peler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="peler" height="30" width="40" /></a>
