@@ -12,7 +12,8 @@
 
 
 # 📊 GitHub Stats:
-![ruddypp's Stats](https://github-readme-stats.vercel.app/api?username=ruddypp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ruddypp's Stats](https://github-readme-stats.vercel.app/api?username=ruddypp&theme=react&show_icons=true&hide_border=false&count_private=false)
+![ruddypp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddypp&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 
 ---------
