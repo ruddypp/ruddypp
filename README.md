@@ -1,4 +1,9 @@
-<h3 align="left">I'm Rudy Paningal. Originally from Tangerang, I’m a third-year student at Pamulang University. During my study I’m interested in web development and machine learning. I enjoy solving logical problems and improving algorithms—it feels incredibly satisfying! :D</h3>
+<h3 align="left">
+  I'm Rudy Paningal, a freelance web developer originally from Tangerang and currently a third-year student at Pamulang University. 
+  Throughout my studies, I’ve developed a strong interest in web development and machine learning. 
+  I genuinely enjoy solving logical problems and optimizing algorithms—it’s a challenge I find incredibly rewarding! :D
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddypp&label=Profile%20views&color=0e75b6&style=flat" alt="ruddypp" /> </p>
 <img src="https://www.codewars.com/users/ruddypp/badges/micro" alt="codewars"/>
 
