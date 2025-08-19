@@ -1,6 +1,6 @@
 <h3 align="left">
-  I'm Rudy Paningal, a freelance web developer originally from Tangerang and currently a third-year student at Pamulang University. 
-  Throughout my studies, I’ve developed a strong interest in web development and machine learning. 
+  I'm Rudy Paningal, originally from Tangerang and currently a third-year student at Pamulang University. 
+  Throughout my studies, I’ve developed a strong interest in web app, mobile app and machine learning models. 
   I genuinely enjoy solving logical problems and optimizing algorithms—it’s a challenge I find incredibly rewarding! :D
 </h3>
 
